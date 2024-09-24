@@ -13,7 +13,8 @@ Welcome to my GitHub portfolio! I’m Pavitra, a Python developer, Artificial In
 - [Contact](#contact)
 
 ## About Me
-I am a [brief introduction about yourself, e.g., passionate developer with experience in building web applications and a keen interest in machine learning]. I enjoy solving problems and learning new technologies.
+I am Pavitra, I have completed my BE. (Bachelor of Engineering) in Artificial Intelligence and Machine Learning from Basaveshwar Engineering College, Bagalkote.'
+I have interested in Python Programming, FullStack Development, Data Science, Data structure, Python Frameworks etc,. I enjoy solving problems and learning new technologies.
 
 ## Technologies
 - **Languages:**  JavaScript, Python, Java
